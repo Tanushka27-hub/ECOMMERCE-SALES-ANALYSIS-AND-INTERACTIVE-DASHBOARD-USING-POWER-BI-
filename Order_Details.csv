@@ -1,0 +1,31 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,Payment Mode
+ORD-001,3500,700,2,Electronics,Mobile Accessories,UPI
+ORD-002,12000,2400,1,Electronics,Smartphones,Credit Card
+ORD-003,850,170,3,Clothing,T-Shirts,Cash on Delivery
+ORD-004,4200,840,2,Furniture,Chairs,Debit Card
+ORD-005,650,130,5,Grocery,Snacks,UPI
+ORD-006,9800,1960,1,Electronics,Laptops,EMI
+ORD-007,1100,220,4,Clothing,Sarees,Cash on Delivery
+ORD-008,3300,660,2,Furniture,Tables,UPI
+ORD-009,560,112,6,Grocery,Beverages,Debit Card
+ORD-010,7500,1500,1,Electronics,Tablets,Credit Card
+ORD-011,2200,440,3,Clothing,Jeans,UPI
+ORD-012,4800,960,2,Furniture,Sofas,EMI
+ORD-013,750,150,5,Grocery,Dairy,Cash on Delivery
+ORD-014,5600,1120,1,Electronics,Headphones,Debit Card
+ORD-015,1800,360,4,Clothing,Kurtas,UPI
+ORD-016,11000,2200,1,Electronics,Smartwatch,Credit Card
+ORD-017,3100,620,2,Furniture,Wardrobes,EMI
+ORD-018,490,98,7,Grocery,Spices,Cash on Delivery
+ORD-019,6200,1240,1,Electronics,Cameras,UPI
+ORD-020,920,184,3,Clothing,Shoes,Debit Card
+ORD-021,2700,540,2,Furniture,Bookshelves,UPI
+ORD-022,380,76,8,Grocery,Pulses,Cash on Delivery
+ORD-023,8900,1780,1,Electronics,Televisions,EMI
+ORD-024,1400,280,3,Clothing,Jackets,Credit Card
+ORD-025,5100,1020,2,Furniture,Beds,Debit Card
+ORD-026,680,136,6,Grocery,Oils,UPI
+ORD-027,4400,880,1,Electronics,Printers,Cash on Delivery
+ORD-028,1650,330,4,Clothing,Dresses,UPI
+ORD-029,2900,580,2,Furniture,Dining Tables,EMI
+ORD-030,720,144,5,Grocery,Cereals,Debit Card
