@@ -1,12 +1,12 @@
-# 🛒 E-Commerce Sales Analysis & Interactive Dashboard (Power BI)
+#  E-Commerce Sales Analysis & Interactive Dashboard (Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an in-depth analysis of e-commerce sales data using Power BI. The dashboard provides meaningful insights into sales performance, customer behavior, product trends, and regional distribution through interactive visualizations.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze overall sales performance
 * Identify top-performing products and categories
@@ -16,18 +16,18 @@ This project presents an in-depth analysis of e-commerce sales data using Power 
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
-* 📈 Sales Overview (Total Sales, Profit, Orders)
-* 🌍 Region-wise Sales Analysis
-* 🛍️ Category & Sub-category Performance
-* 👤 Customer Segmentation Insights
-* 📅 Time-based Trends (Monthly/Yearly Sales)
-* 🔍 Interactive Filters (Slicers for Region, Category, Date)
+* Sales Overview (Total Sales, Profit, Orders)
+*  Region-wise Sales Analysis
+*  Category & Sub-category Performance
+*  Customer Segmentation Insights
+*  Time-based Trends (Monthly/Yearly Sales)
+*  Interactive Filters (Slicers for Region, Category, Date)
 
 ---
 
-## 🧰 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Power BI (Data Visualization)
 * Microsoft Excel / CSV (Dataset)
@@ -35,7 +35,7 @@ This project presents an in-depth analysis of e-commerce sales data using Power 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 * `ecommerce_dashboard.pbix` → Power BI report file
 * `ecommerce_data.csv` → Dataset used for analysis
@@ -43,13 +43,7 @@ This project presents an in-depth analysis of e-commerce sales data using Power 
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add screenshot of your dashboard here)
-
----
-
-## 🚀 Key Insights
+##  Key Insights
 
 * Identified top-selling products and categories
 * Observed seasonal sales trends
@@ -58,7 +52,7 @@ This project presents an in-depth analysis of e-commerce sales data using Power 
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Download the `.pbix` file
 2. Open it using Power BI Desktop
@@ -66,15 +60,14 @@ This project presents an in-depth analysis of e-commerce sales data using Power 
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how Power BI can transform raw data into actionable insights through interactive dashboards, helping businesses make data-driven decisions.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
-Your Name
-(Replace with your name, course, or college)
+Tanushka Dayal
 
 ---
